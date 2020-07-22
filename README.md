@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
-	<br>
-		<img src="/header.svg" width="800" height="400">
-	<br>
-</div>
+![Hello](header.svg)
 
 <!--
 **nearbycoder/nearbycoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
