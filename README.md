@@ -2,6 +2,8 @@
 
 ![Hello](https://raw.githubusercontent.com/nearbycoder/nearbycoder/master/header.svg)
 
+first test with codespaces
+
 <!--
 **nearbycoder/nearbycoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
