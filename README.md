@@ -21,7 +21,7 @@ Most recently at **Token Terminal**, where I architected analytics dashboards, l
 
 | Company | Role | Years |
 |---------|------|-------|
-| **Token Terminal** | Staff Software Engineer | 2024 – Present |
+| **Token Terminal** | Staff Software Engineer | 2024 – 2026 |
 | **FireHydrant** | Staff Software Engineer | 2021 – 2024 |
 | **Kodable** | Senior Full Stack Engineer | 2020 – 2021 |
 | **Tempest** | Lead Product Engineer | 2019 – 2020 |
