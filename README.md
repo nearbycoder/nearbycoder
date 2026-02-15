@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hello](https://raw.githubusercontent.com/nearbycoder/nearbycoder/master/header.svg)
+![Hello](https://raw.githubusercontent.com/nearbycoder/nearbycoder/master/header.svg?v=2)
 
 ## About Me
 
