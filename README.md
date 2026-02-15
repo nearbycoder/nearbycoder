@@ -6,7 +6,9 @@
 
 I'm **Josh Hamilton**, a Staff Software Engineer based in Tulsa, Oklahoma with 10+ years of experience building modern web applications. I specialize in full-stack development with a focus on React, Next.js, TypeScript, and data-driven interfaces.
 
-Currently at **Token Terminal**, where I architect analytics dashboards, lead framework migrations, and build high-performance data visualization tools for the crypto/blockchain space.
+> **🟢 Open for Work** — I'm currently looking for my next opportunity after recent layoffs. If you're hiring or know someone who is, I'd love to connect!
+
+Most recently at **Token Terminal**, where I architected analytics dashboards, led framework migrations, and built high-performance data visualization tools for the crypto/blockchain space.
 
 ## What I'm Working On
 
