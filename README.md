@@ -28,6 +28,7 @@ Previously at **Token Terminal**, where I architected analytics dashboards, led 
 | **Tempest** | Lead Product Engineer | 2019 – 2020 |
 | **Kazoo HR** | Lead Full Stack Engineer | 2018 – 2019 |
 | **Made by Munsters** | Full Stack Developer | 2016 – 2018 |
+| **Fabricut** | Full Stack Developer | 2015 - 2016 |
 
 ## Tech Stack
 
