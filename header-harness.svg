@@ -57,7 +57,7 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-					background: linear-gradient(-45deg, #0f2027, #203a43, #2c5364, #0f2027);
+					background: linear-gradient(-45deg, #07182B, #0A3364, #004BA4, #07182B);
 					background-size: 400% 400%;
 					animation: gradientBackground 12s ease infinite;
 					border-radius: 10px;
@@ -78,19 +78,20 @@
 				}
 				.subtitle {
 					font-size: 18px;
-					color: rgba(255, 255, 255, 0.85);
+					color: #CDF4FE;
 					margin: 0 0 16px 0;
 					letter-spacing: 1px;
 					animation: fadeInUp 1s ease 0.3s both;
 				}
 				.subtitle a {
-					color: inherit;
+					color: #3DC7F6;
+					font-weight: 600;
 					text-decoration: none;
 				}
 				.badge {
 					display: inline-block;
 					padding: 8px 24px;
-					background: linear-gradient(135deg, #1a73e8, #4dabf7);
+					background: linear-gradient(135deg, #0278D5, #00ADE4);
 					color: #fff;
 					font-size: 16px;
 					font-weight: 700;
@@ -98,13 +99,13 @@
 					text-transform: uppercase;
 					border-radius: 50px;
 					animation: pulse 2s ease-in-out infinite, fadeInUp 1s ease 0.6s both;
-					box-shadow: 0 4px 15px rgba(26, 115, 232, 0.4);
+					box-shadow: 0 4px 15px rgba(0, 173, 228, 0.4);
 				}
 			</style>
 			<div class="container">
 				<h1>Hey, I'm Josh Hamilton 👋</h1>
-				<p class="subtitle">Member of Technical Staff @ <a href="https://www.augmentcode.com/">Augment Code</a></p>
-				<span class="badge">augmentcode.com</span>
+				<p class="subtitle">Staff Software Engineer II @ <a href="https://www.harness.io/">Harness</a></p>
+				<span class="badge">harness.io</span>
 			</div>
 		</div>
 	</foreignObject>

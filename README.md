@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-![Hello](https://raw.githubusercontent.com/nearbycoder/nearbycoder/master/header-augment.svg?v=1)
+![Hello](https://raw.githubusercontent.com/nearbycoder/nearbycoder/master/header-harness.svg?v=1)
 
 ## About Me
 
-I'm **Josh Hamilton**, a Member of Technical Staff at Augment Code based in Tulsa, Oklahoma with 10+ years of experience building modern web applications. I specialize in full-stack development with a focus on React, Next.js, TypeScript, and data-driven interfaces.
+I'm **Josh Hamilton**, a Staff Software Engineer II at Harness based in Tulsa, Oklahoma with 10+ years of experience building modern web applications. I specialize in full-stack development with a focus on React, Next.js, TypeScript, and data-driven interfaces.
 
-> Currently building developer tooling at **Augment Code**.
+> Currently a Staff Software Engineer II at **[Harness](https://www.harness.io/)**, following Harness's acquisition of **Augment Code**.
 
 Previously at **Token Terminal**, where I architected analytics dashboards, led framework migrations, and built high-performance data visualization tools for the crypto/blockchain space.
 
@@ -21,7 +21,8 @@ Previously at **Token Terminal**, where I architected analytics dashboards, led 
 
 | Company | Role | Years |
 |---------|------|-------|
-| **Augment Code** | Member of Technical Staff | 2026 - Current |
+| **Harness** | Staff Software Engineer II | 2026 – Current |
+| **Augment Code** (acquired by Harness) | Member of Technical Staff | 2026 – 2026 |
 | **Token Terminal** | Staff Software Engineer | 2024 – 2026 |
 | **FireHydrant** | Staff Software Engineer | 2021 – 2024 |
 | **Kodable** | Senior Full Stack Engineer | 2020 – 2021 |
